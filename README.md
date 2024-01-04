@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 Once you have done this, you simply have to run the *prediction_script.py* which will guide you to choose an image from your computer to predict.
 
-The main notebook can be found in *notebooks/martin-chess-interpreter.ipynb*
+**The main notebook can be found in *notebooks/martin-chess-interpreter.ipynb***
 
 The model is saved under *models/martin_chess.joblib*
 
